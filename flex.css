@@ -1,0 +1,30 @@
+.main{
+    height: 700px;
+    width: 900px;
+    background-color: black;
+    display: flex;
+    flex-direction: row; 
+    justify-content: start;
+    align-items: end;
+} 
+
+.as{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+}
+.s1{
+    background-color: chartreuse;
+}
+.s2{
+    background-color: cornflowerblue;
+}
+.s3{
+    background-color: blueviolet;
+}
+.s4{
+    background-color: darkmagenta;
+}
+.s5{
+    background-color: brown;
+}
