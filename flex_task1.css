@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.main{
+    min-height: 650px;
+}
+.top{
+    height: 100px;
+    background-color: red;
+}
+.mid{
+    height: 300px;
+    display: flex;
+}
+.bottom{
+    height: 100px;
+    background-color: blue;
+}
+.leftbar{
+    background-color: blueviolet;
+    width: 30%;
+}
+.center{
+    background-color: aqua;
+    width: 40%;
+}
+.rigthbar{
+    background-color: antiquewhite;
+    width: 30%;
+}
